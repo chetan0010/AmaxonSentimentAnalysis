@@ -1,1 +1,1 @@
-# AmaxonSentimentAnalysis
+SentimentAnalysis
